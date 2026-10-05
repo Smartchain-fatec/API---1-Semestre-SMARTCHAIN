@@ -93,8 +93,6 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 ## Registro das Sprints
 
-## Registro das Sprints
-
 | Sprint | Previsão | Status | Histórico |
 | :---: | :---: | :---: | :---: |
 | 01 | 28/09/2026 | Finalizado | [MVP](MVP/sp1.md) |
