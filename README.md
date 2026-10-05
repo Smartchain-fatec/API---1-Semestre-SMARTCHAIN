@@ -28,15 +28,15 @@ A solução utilizará dados públicos e institucionais, com destaque para a bas
 
 ## 👥 Equipe
 
-Função	                 Integrante
-Product Owner (PO)	 Jessica Vitória M. Reis
-Scrum Master	       Patricia do Carmo Lourenço
-Developer	           Ana Beatriz V. Chagas
-Developer	           Celia Chagas Felipe
-Developer	           Leticia Rafaela Ribeiro
-Developer	           Talitha de Barros F. Santos
-Developer	           Pedro de Vasconcelos
-
+‐ Integrantes
+Proprietário do Produto	João Vitor Overas Rodrigues Guedes	Distintivo do GitHub
+Scrum Master	Ana Beatriz Chiavini	Distintivo do LinkedIn Distintivo do GitHub
+Membro da Equipe	Filipe Gabriel Moreira de Paula Ferreira	Distintivo do LinkedIn Distintivo do GitHub
+Membro da Equipe	Gabriela Souza Oliveira	Distintivo do LinkedIn Distintivo do GitHub
+Membro da Equipe	Lucas Fernando Luciano Serafim	Distintivo do LinkedIn Distintivo do GitHub
+Membro da Equipe	Mário de Oliveira Silva Júnior	Distintivo do GitHub
+Membro da Equipe	Raquel Araújo Lima	Distintivo do LinkedIn Distintivo do GitHub
+Membro da Equipe	Tainara Oliveira	Distintivo do GitHub
 ---
 
 ## 🎯 Objetivo do Projeto
