@@ -28,16 +28,7 @@ A solução utilizará dados públicos e institucionais, com destaque para a bas
 
 ## 👥 Equipe
 
-‐ Integrantes
-Proprietário do Produto	João Vitor Overas Rodrigues Guedes	Distintivo do GitHub
-Scrum Master	Ana Beatriz Chiavini	Distintivo do LinkedIn Distintivo do GitHub
-Membro da Equipe	Filipe Gabriel Moreira de Paula Ferreira	Distintivo do LinkedIn Distintivo do GitHub
-Membro da Equipe	Gabriela Souza Oliveira	Distintivo do LinkedIn Distintivo do GitHub
-Membro da Equipe	Lucas Fernando Luciano Serafim	Distintivo do LinkedIn Distintivo do GitHub
-Membro da Equipe	Mário de Oliveira Silva Júnior	Distintivo do GitHub
-Membro da Equipe	Raquel Araújo Lima	Distintivo do LinkedIn Distintivo do GitHub
-Membro da Equipe	Tainara Oliveira	Distintivo do GitHub
----
+
 
 ## 🎯 Objetivo do Projeto
 
@@ -72,13 +63,23 @@ WhatsApp
 
 O Product Backlog apresenta as necessidades, funcionalidades e atividades previstas para o desenvolvimento do projeto.
 
-Sprint 1 — Levantamento das Fontes de Dados
+# Sprint 1 — Levantamento das Fontes de Dados
 
 Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
 
-<img width="1009" height="265" alt="image" src="https://github.com/user-attachments/assets/a4dadf2f-0868-4e82-97b1-450e23eeac47" />
+<img width="766" height="361" alt="image" src="https://github.com/user-attachments/assets/7f12a93c-5cc4-4f82-bdec-c405151470d6" />
 
+# Sprint 2 — Análise e Desenvolvimento
 
+Objetivo: Analisar os dados tratados e iniciar a construção das visualizações e do dashboard no Power BI.
+
+<img width="1383" height="404" alt="image" src="https://github.com/user-attachments/assets/36380691-a44f-42c6-ac84-8e7994a3bfea" />
+
+# Sprint 3 — Finalização e Entrega
+
+Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentação e preparar a entrega do projeto.
+
+<img width="1312" height="380" alt="image" src="https://github.com/user-attachments/assets/8f57c443-f038-4cee-aa9e-19414e6e0b98" />
 
 ---
 
