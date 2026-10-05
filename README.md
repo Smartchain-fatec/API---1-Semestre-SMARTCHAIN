@@ -86,7 +86,6 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 <img width="1032" height="524" alt="image" src="https://github.com/user-attachments/assets/1dd31444-0e4c-4343-bd6a-f4c83d492417" />
 
-
 ---
 
 ## 🚀 Registros das Sprints
@@ -95,10 +94,36 @@ Os registros das sprints apresentam o acompanhamento do desenvolvimento do proje
 
 | Sprint | Data | Status |
 |---|---|---|
-| Sprint 1 | 28/09/2026 | Em andamento |
-| Sprint 2 | 26/10/2026 | A fazer |
+| Sprint 1 | 28/09/2026 | Finalizado |
+| Sprint 2 | 26/10/2026 | Em andamento |
 | Sprint 3 | 23/11/2026 | A fazer |
 | Feira de Soluções | 03/12/2026 | A fazer |
+
+
+## 📂 Documentação
+
+Os documentos utilizados no desenvolvimento do projeto estão organizados no repositório.
+
+# Checklist DoR
+
+Documento utilizado para definir os requisitos do cliente, questões para análise, funcionalidades da solução e entregáveis finais.
+
+# Product Backlog
+
+Documento contendo o Product Backlog dividido entre as três Sprints do projeto.
+
+# Dados
+
+Diretório destinado à organização das bases de dados utilizadas no projeto.
+
+# Acúmulos de Produtos
+
+Diretório destinado ao armazenamento dos materiais, informações e resultados produzidos durante o desenvolvimento do projeto.
+
+# Backlog
+
+Diretório destinado aos registros relacionados ao backlog e ao acompanhamento das atividades do projeto.
+
 
 ➡️ [Acessar Registros das Sprints](./sprints/)
 
