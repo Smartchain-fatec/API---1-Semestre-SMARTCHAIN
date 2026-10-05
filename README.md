@@ -20,10 +20,18 @@ A proposta envolve o levantamento, organização, tratamento e análise de dados
 
 A solução utilizará dados públicos e institucionais, com destaque para a base da RAIS, conforme definido no Product Backlog do projeto.
 
+
 ## Equipe
 
-<img width="463" height="243" alt="image" src="https://github.com/user-attachments/assets/7a6d6993-eeee-4a0f-ab99-09fe95b17626" />
-
+| Função | Nome | LinkedIn & GitHub |
+| :---: | :--- | :---: |
+| **Product Owner** | Jéssica Vitória Magalhães Reis | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-reis-161550232) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jessicarmagalhaes21-png) |
+| **Scrum Master** | Patrícia do Carmo Lourenço | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/patricialourenco483-ai) |
+| **Developer** | Ana Beatriz Viana Chagas | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-viana-60a84128b) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vianachagasaanabeatriz/Informatica-aplicada-a-logistica-) |
+| **Developer** | Celia Chagas Felipe | — |
+| **Developer** | Letícia Rafaela Ribeiro | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/leticiaa2007) |
+| **Developer** | Talitha de Barros Ferreira Santos | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/talithadebarros-ux) |
+| **Developer** | Pedro de Vasconcelos | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-vasconcelos-rodrigues-3183a731b) |
 
 ## Objetivo do Projeto
 
@@ -44,14 +52,13 @@ Desenvolver uma solução de análise e visualização de dados capaz de:
 
 As principais ferramentas utilizadas ou previstas para o desenvolvimento do projeto são:
 
-Python
-Google Colab
-Power BI
-GitHub
-Jira Software
-Microsoft Excel
-Microsoft Word
-WhatsApp
+- Python
+- Google Colab
+- Power BI
+- GitHub
+- Jira Software
+- Microsoft Excel
+- Microsoft Word
 
 ---
 #  Product Backlog
@@ -83,52 +90,12 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 ---
 
-## Registros das Sprints
 
-Os registros das sprints apresentam o acompanhamento do desenvolvimento do projeto ao longo dos ciclos de trabalho.
+## Registro das Sprints
 
-| Sprint | Data | Status |
-|---|---|---|
-| Sprint 1 | 28/09/2026 | Finalizado |
-| Sprint 2 | 26/10/2026 | Em andamento |
-| Sprint 3 | 23/11/2026 | A fazer |
-| Feira de Soluções | 03/12/2026 | A fazer |
-
-
-#  Documentação
-
-Os documentos utilizados no desenvolvimento do projeto estão organizados no repositório.
-
-## Checklist DoR
-
-Documento utilizado para definir os requisitos do cliente, questões para análise, funcionalidades da solução e entregáveis finais.
-
-## Product Backlog
-
-Documento contendo o Product Backlog dividido entre as três Sprints do projeto.
-
-## Dados
-
-Diretório destinado à organização das bases de dados utilizadas no projeto.
-
-## Acúmulos de Produtos
-
-Diretório destinado ao armazenamento dos materiais, informações e resultados produzidos durante o desenvolvimento do projeto.
-
-## Backlog
-
-Diretório destinado aos registros relacionados ao backlog e ao acompanhamento das atividades do projeto.
-
-
- [Acessar Registros das Sprints](./sprints/)
-
----
-
-##  Cronograma
-
-| Entrega | Data |
-|---|---|
-| Sprint 1 | 28/09/2026 |
-| Sprint 2 | 26/10/2026 |
-| Sprint 3 | 23/11/2026 |
-| Feira de Soluções | 03/12/2026 |
+| Sprint | Previsão | Status | Histórico |
+| :---: | :---: | :---: | :---: |
+| 01 | 28/09/2026 | Finalizado | [MVP](./registro_sprints/sprint_01/) |
+| 02 | 26/10/2026 | A fazer | [MVP](./registro_sprints/sprint_02/) |
+| 03 | 23/11/2026 | A fazer | [MVP](./registro_sprints/sprint_03/) |
+| Feira de Soluções | 03/12/2026 | A fazer | [MVP](./registro_sprints/feira_de_solucoes/) |
