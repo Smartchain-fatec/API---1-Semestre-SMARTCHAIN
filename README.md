@@ -76,11 +76,6 @@ Sprint 1 — Levantamento das Fontes de Dados
 
 Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
 
-Rank	Prioridade	User Story	Sprint
-1	Média	Como tomador de decisão de políticas públicas, quero ter acesso aos dados disponíveis na RAIS relacionados às empresas e atividades econômicas, para ter as informações que poderão ser necessárias ao desenvolvimento do projeto.	1
-2	Alta	Como tomador de decisão de políticas públicas quero visualizar a base de dados da RAIS organizada em uma estrutura clara e padronizada, para facilitar o consumo e a interpretação das informações.	1
-3	Alta	Como tomador de decisão de políticas públicas, quero acessar dados sem duplicidades e inconsistências, para ter confiabilidade nos dados e tomar decisões baseadas em informações precisas.	1
-4	Alta	Como tomador de decisão de políticas públicas, quero consultar os conjuntos de dados e campos específicos da RAIS (empresas e atividades), para selecionar apenas os indicadores necessários ao acompanhamento dos projetos.	1
 <img width="1009" height="265" alt="image" src="https://github.com/user-attachments/assets/a4dadf2f-0868-4e82-97b1-450e23eeac47" />
 
 
