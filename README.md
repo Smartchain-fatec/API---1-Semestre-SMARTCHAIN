@@ -13,8 +13,8 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 - [👥 Equipe](#-equipe)
 - [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
 - [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [📋 Product Backlog](#-produto-backlog)
-- [🚀 Registro das Sprints](#-registro-das-sprints)
+- [📋 Product Backlog](#-Produto-Backlog)
+- [🚀 Registro das Sprints](#-Registro-das-Sprints)
 - [📂 Documentação](#-documentação)
 ---
 
