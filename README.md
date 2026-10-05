@@ -1,98 +1,91 @@
-# Aprendizagem por Projetos Integrados 2026-1
-
-## Análise e Visualização de Dados dos Setores Industriais e de Serviços de São José dos Campos
+## Aprendizagem por Projetos Integrados 2026-1
+ # Análise e Visualização de Dados dos Setores Industriais e de Serviços de São José dos Campos
 
 Projeto desenvolvido no âmbito da disciplina de Aprendizagem por Projetos Integrados (API), do curso de Tecnologia em Logística da FATEC São José dos Campos.
 
-O projeto tem como objetivo desenvolver uma solução de análise e visualização de dados capaz de identificar, organizar e apresentar informações relacionadas aos principais setores industriais e de serviços do município de São José dos Campos.
+O projeto tem como objetivo desenvolver uma solução de análise e visualização de dados capaz de identificar, organizar e apresentar informações relacionadas aos principais setores industriais e de serviços de São José dos Campos.
 
----
+
 
 ## 📑 Índice
 
-- [📌 Sobre o Projeto](#-sobre-o-projeto)
-- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
+- [📌 Projeto](#-projeto)
 - [👥 Equipe](#-equipe)
-- [Acúmulos de Produtos](./acumulos_produtos/)
-- [Fonte dos Dados](./dados/)
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
 - [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Registros das Sprints](./sprints/)
-
+- [Product Backlog](#-produto-backlog)
+- [Registro das Sprints](#-sprints)
+- [Documentação](#-documentação)
 ---
 
-## 📌 Sobre o Projeto
+## 📌 Projeto
 
-O projeto de Aprendizagem por Projetos Integrados tem como foco o desenvolvimento de uma solução de análise e visualização de dados sobre os setores industriais e de serviços de São José dos Campos.
+Este projeto de Aprendizagem por Projetos Integrados (API) tem como foco o desenvolvimento de uma solução de análise e visualização de dados sobre os setores industriais e de serviços de São José dos Campos.
 
-A proposta surgiu a partir de uma demanda relacionada à organização e análise de informações econômicas do município, buscando facilitar a identificação dos principais setores presentes na região.
+A proposta envolve o levantamento, organização, tratamento e análise de dados relacionados às empresas e atividades econômicas, buscando transformar dados em informações que possam contribuir para a compreensão do ecossistema produtivo regional.
 
-Por meio da utilização de bases de dados públicas e ferramentas de análise e visualização, o projeto busca transformar dados em informações que possam contribuir para a compreensão da estrutura produtiva do município.
+A solução utilizará dados públicos e institucionais, com destaque para a base da RAIS, conforme definido no Product Backlog do projeto.
+
+## 👥 Equipe
+
+Função	                 Integrante
+Product Owner (PO)	 Jessica Vitória M. Reis
+Scrum Master	       Patricia do Carmo Lourenço
+Developer	           Ana Beatriz V. Chagas
+Developer	           Celia Chagas Felipe
+Developer	           Leticia Rafaela Ribeiro
+Developer	           Talitha de Barros F. Santos
+Developer	           Pedro de Vasconcelos
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Desenvolver uma solução de análise e visualização de dados capaz de identificar e organizar informações sobre os principais setores industriais e de serviços de São José dos Campos.
+Desenvolver uma solução de análise e visualização de dados capaz de:
 
-A solução deverá permitir a análise dos dados de forma estruturada e visual, contribuindo para a identificação dos setores predominantes e para o apoio à tomada de decisões.
-
----
-
-## 👥 Equipe
-
-| Função | Integrante |
-|---|---|
-| Product Owner (PO) | Jessica Vitória M. Reis |
-| Scrum Master| Patricia do Carmo Lourenço |
-| Developers  | Ana Beatriz V. Chagas |
-| Developers  | Celia Chagas Felipe |
-| Developers  | Leticia Rafaela Ribeiro |
-| Developers  | Talitha de Barros F. Santos |
-| Developers  | Adriano Valério |
-| Developers  | Pedro de Vasconcelos |
+- Mapear o ecossistema industrial e de serviços da região de São José dos Campos;
+- Identificar os principais setores produtivos;
+- Organizar os dados econômicos e industriais;
+- Desenvolver uma solução de análise e visualização de dados;
+- Utilizar dados públicos e institucionais;
+- Identificar e classificar as atividades econômicas predominantes;
+- Representar geograficamente a distribuição das empresas ou setores produtivos;
+- Apresentar indicadores econômicos e produtivos relevantes;
+- Criar gráficos sobre a participação dos diferentes setores na economia regional.
 
 ---
-
-## 📦 Acúmulos de Produtos
-
-Os acúmulos de produtos apresentam os materiais, informações e resultados desenvolvidos ao longo do projeto.
-
-➡️ [Acessar Acúmulos de Produtos](./acumulos_produtos/)
-
----
-
-## 🧠 Competências LTs
-
-Nesta seção são apresentadas as competências relacionadas ao desenvolvimento do projeto e às habilidades trabalhadas pela equipe durante sua execução.
-
-➡️ [Acessar Competências LTs](./competencias_lts/)
-
----
-
-## 🗂️ Fonte dos Dados
-
-Os dados utilizados no desenvolvimento do projeto serão obtidos a partir de bases de dados públicas e fontes digitais relacionadas às atividades econômicas e aos setores industriais e de serviços de São José dos Campos.
-
----
-
 ## 💻 Tecnologias Utilizadas
 
-As principais ferramentas e tecnologias utilizadas no desenvolvimento do projeto são:
+As principais ferramentas utilizadas ou previstas para o desenvolvimento do projeto são:
 
-- Python
-- Google Colab
-- Power BI
-- GitHub
-- Jira Software
-- Microsoft Excel
-- Microsoft Word
-- WhatsApp
+Python
+Google Colab
+Power BI
+GitHub
+Jira Software
+Microsoft Excel
+Microsoft Word
+WhatsApp
 
 ---
+## 📋 Product Backlog
 
-## 📋 Backlog
+O Product Backlog apresenta as necessidades, funcionalidades e atividades previstas para o desenvolvimento do projeto.
 
-O backlog apresenta as atividades, necessidades e funcionalidades previstas para o desenvolvimento do projeto.
+Sprint 1 — Levantamento das Fontes de Dados
+
+Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
+
+Rank	Prioridade	User Story	Sprint
+1	Média	Como tomador de decisão de políticas públicas, quero ter acesso aos dados disponíveis na RAIS relacionados às empresas e atividades econômicas, para ter as informações que poderão ser necessárias ao desenvolvimento do projeto.	1
+2	Alta	Como tomador de decisão de políticas públicas quero visualizar a base de dados da RAIS organizada em uma estrutura clara e padronizada, para facilitar o consumo e a interpretação das informações.	1
+3	Alta	Como tomador de decisão de políticas públicas, quero acessar dados sem duplicidades e inconsistências, para ter confiabilidade nos dados e tomar decisões baseadas em informações precisas.	1
+4	Alta	Como tomador de decisão de políticas públicas, quero consultar os conjuntos de dados e campos específicos da RAIS (empresas e atividades), para selecionar apenas os indicadores necessários ao acompanhamento dos projetos.	1
+<img width="1009" height="265" alt="image" src="https://github.com/user-attachments/assets/a4dadf2f-0868-4e82-97b1-450e23eeac47" />
+
+
+
+---
 
 ## 🚀 Registros das Sprints
 
