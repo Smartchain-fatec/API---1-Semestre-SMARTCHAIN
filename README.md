@@ -7,18 +7,12 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 
 
 
-## 📑 Índice
+## Índice
 
-- [📌 Projeto](#-projeto)
-- [👥 Equipe](#-equipe)
-- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
-- [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [📋 Product Backlog](#-Produto-Backlog )
-- [🚀 Registro das Sprints](#-Registro-das-Sprints)
-- [📂 Documentação](#-documentação)
+
 ---
 
-## 📌 Projeto
+## Projeto
 
 Este projeto de Aprendizagem por Projetos Integrados (API) tem como foco o desenvolvimento de uma solução de análise e visualização de dados sobre os setores industriais e de serviços de São José dos Campos.
 
@@ -26,12 +20,12 @@ A proposta envolve o levantamento, organização, tratamento e análise de dados
 
 A solução utilizará dados públicos e institucionais, com destaque para a base da RAIS, conforme definido no Product Backlog do projeto.
 
-## 👥 Equipe
+## Equipe
 
 <img width="463" height="243" alt="image" src="https://github.com/user-attachments/assets/7a6d6993-eeee-4a0f-ab99-09fe95b17626" />
 
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver uma solução de análise e visualização de dados capaz de:
 
@@ -46,7 +40,7 @@ Desenvolver uma solução de análise e visualização de dados capaz de:
 - Criar gráficos sobre a participação dos diferentes setores na economia regional.
 
 ---
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 As principais ferramentas utilizadas ou previstas para o desenvolvimento do projeto são:
 
@@ -60,7 +54,7 @@ Microsoft Word
 WhatsApp
 
 ---
-# 📋 Product Backlog
+#  Product Backlog
 
 O Product Backlog apresenta as necessidades, funcionalidades e atividades previstas para o desenvolvimento do projeto.
 
@@ -89,7 +83,7 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 ---
 
-## 🚀 Registros das Sprints
+## Registros das Sprints
 
 Os registros das sprints apresentam o acompanhamento do desenvolvimento do projeto ao longo dos ciclos de trabalho.
 
@@ -101,7 +95,7 @@ Os registros das sprints apresentam o acompanhamento do desenvolvimento do proje
 | Feira de Soluções | 03/12/2026 | A fazer |
 
 
-# 📂 Documentação
+#  Documentação
 
 Os documentos utilizados no desenvolvimento do projeto estão organizados no repositório.
 
@@ -126,11 +120,11 @@ Diretório destinado ao armazenamento dos materiais, informações e resultados 
 Diretório destinado aos registros relacionados ao backlog e ao acompanhamento das atividades do projeto.
 
 
-➡️ [Acessar Registros das Sprints](./sprints/)
+ [Acessar Registros das Sprints](./sprints/)
 
 ---
 
-## 📅 Cronograma
+##  Cronograma
 
 | Entrega | Data |
 |---|---|
