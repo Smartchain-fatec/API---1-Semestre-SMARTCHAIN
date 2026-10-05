@@ -12,7 +12,7 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 
 ---
 
-## Projeto
+## Projeto API
 
 Este projeto de Aprendizagem por Projetos Integrados (API) tem como foco o desenvolvimento de uma solução de análise e visualização de dados sobre os setores industriais e de serviços de São José dos Campos.
 
