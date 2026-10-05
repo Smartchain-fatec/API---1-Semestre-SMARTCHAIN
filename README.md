@@ -1,5 +1,5 @@
-## Aprendizagem por Projetos Integrados 2026-1
- # Análise e Visualização de Dados dos Setores Industriais e de Serviços de São José dos Campos
+# Aprendizagem por Projetos Integrados 2026-1
+ ## Análise e Visualização de Dados dos Setores Industriais e de Serviços de São José dos Campos
 
 Projeto desenvolvido no âmbito da disciplina de Aprendizagem por Projetos Integrados (API), do curso de Tecnologia em Logística da FATEC São José dos Campos.
 
@@ -60,11 +60,11 @@ Microsoft Word
 WhatsApp
 
 ---
-## 📋 Product Backlog
+# 📋 Product Backlog
 
 O Product Backlog apresenta as necessidades, funcionalidades e atividades previstas para o desenvolvimento do projeto.
 
-# Sprint 1 — Levantamento das Fontes de Dados
+## Sprint 1 — Levantamento das Fontes de Dados
 
 Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
 
@@ -72,7 +72,7 @@ Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de anális
 <img width="1032" height="313" alt="image" src="https://github.com/user-attachments/assets/93ccaeca-f559-48c4-85c6-4c92c895ce26" />
 
 
-# Sprint 2 — Análise e Desenvolvimento
+## Sprint 2 — Análise e Desenvolvimento
 
 Objetivo: Analisar os dados tratados e iniciar a construção das visualizações e do dashboard no Power BI.
 
@@ -80,7 +80,7 @@ Objetivo: Analisar os dados tratados e iniciar a construção das visualizaçõe
 <img width="1032" height="638" alt="image" src="https://github.com/user-attachments/assets/d40b8bdc-9de1-4ca0-aa0e-f41fc32c8d33" />
 
 
-# Sprint 3 — Finalização e Entrega
+## Sprint 3 — Finalização e Entrega
 
 Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentação e preparar a entrega do projeto.
 
@@ -101,27 +101,27 @@ Os registros das sprints apresentam o acompanhamento do desenvolvimento do proje
 | Feira de Soluções | 03/12/2026 | A fazer |
 
 
-## 📂 Documentação
+# 📂 Documentação
 
 Os documentos utilizados no desenvolvimento do projeto estão organizados no repositório.
 
-# Checklist DoR
+## Checklist DoR
 
 Documento utilizado para definir os requisitos do cliente, questões para análise, funcionalidades da solução e entregáveis finais.
 
-# Product Backlog
+## Product Backlog
 
 Documento contendo o Product Backlog dividido entre as três Sprints do projeto.
 
-# Dados
+## Dados
 
 Diretório destinado à organização das bases de dados utilizadas no projeto.
 
-# Acúmulos de Produtos
+## Acúmulos de Produtos
 
 Diretório destinado ao armazenamento dos materiais, informações e resultados produzidos durante o desenvolvimento do projeto.
 
-# Backlog
+## Backlog
 
 Diretório destinado aos registros relacionados ao backlog e ao acompanhamento das atividades do projeto.
 
