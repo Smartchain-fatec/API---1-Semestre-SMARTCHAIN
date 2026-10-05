@@ -93,9 +93,11 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 ## Registro das Sprints
 
+## Registro das Sprints
+
 | Sprint | Previsão | Status | Histórico |
 | :---: | :---: | :---: | :---: |
-| 01 | 28/09/2026 | Finalizado | [MVP](./registro_sprints/sprint_01/) |
-| 02 | 26/10/2026 | A fazer | [MVP](./registro_sprints/sprint_02/) |
-| 03 | 23/11/2026 | A fazer | [MVP](./registro_sprints/sprint_03/) |
-| Feira de Soluções | 03/12/2026 | A fazer | [MVP](./registro_sprints/feira_de_solucoes/) |
+| 01 | 28/09/2026 | Finalizado | [MVP](MVP/sp1.md) |
+| 02 | 26/10/2026 | A fazer | [MVP](MVP/sp2.md) |
+| 03 | 23/11/2026 | A fazer | [MVP](MVP/sp3.md) |
+| Feira de Soluções | 03/12/2026 | A fazer | — |
