@@ -28,14 +28,6 @@ A solução utilizará dados públicos e institucionais, com destaque para a bas
 
 ## 👥 Equipe
 
-Função	Integrante
-Product Owner (PO)	Jessica Vitória Magalhães Reis
-Scrum Master	Patricia do Carmo Lourenço
-Developer	Ana Beatriz Viana Chagas
-Developer	Celia Chagas Felipe
-Developer	Leticia Rafaela Ribeiro
-Developer	Talitha de Barros Ferreira Santos
-Developer	Pedro de Vasconcelos
 <img width="463" height="243" alt="image" src="https://github.com/user-attachments/assets/7a6d6993-eeee-4a0f-ab99-09fe95b17626" />
 
 
