@@ -67,19 +67,25 @@ O Product Backlog apresenta as necessidades, funcionalidades e atividades previs
 
 Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
 
-<img width="766" height="361" alt="image" src="https://github.com/user-attachments/assets/7f12a93c-5cc4-4f82-bdec-c405151470d6" />
+
+<img width="1032" height="313" alt="image" src="https://github.com/user-attachments/assets/93ccaeca-f559-48c4-85c6-4c92c895ce26" />
+
 
 # Sprint 2 — Análise e Desenvolvimento
 
 Objetivo: Analisar os dados tratados e iniciar a construção das visualizações e do dashboard no Power BI.
 
-<img width="1383" height="404" alt="image" src="https://github.com/user-attachments/assets/36380691-a44f-42c6-ac84-8e7994a3bfea" />
+
+<img width="1032" height="638" alt="image" src="https://github.com/user-attachments/assets/d40b8bdc-9de1-4ca0-aa0e-f41fc32c8d33" />
+
 
 # Sprint 3 — Finalização e Entrega
 
 Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentação e preparar a entrega do projeto.
 
-<img width="1312" height="380" alt="image" src="https://github.com/user-attachments/assets/8f57c443-f038-4cee-aa9e-19414e6e0b98" />
+
+<img width="1032" height="524" alt="image" src="https://github.com/user-attachments/assets/1dd31444-0e4c-4343-bd6a-f4c83d492417" />
+
 
 ---
 
