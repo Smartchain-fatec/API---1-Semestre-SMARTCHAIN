@@ -28,7 +28,7 @@ A solução utilizará dados públicos e institucionais, com destaque para a bas
 | **Product Owner** | Jéssica Vitória Magalhães Reis | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-reis-161550232) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jessicarmagalhaes21-png) |
 | **Scrum Master** | Patrícia do Carmo Lourenço | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/patricialourenco483-ai) |
 | **Developer** | Ana Beatriz Viana Chagas | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-viana-60a84128b) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vianachagasaanabeatriz/Informatica-aplicada-a-logistica-) |
-| **Developer** | Celia Chagas Felipe | — |
+
 | **Developer** | Letícia Rafaela Ribeiro | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/leticiaa2007) |
 | **Developer** | Talitha de Barros Ferreira Santos | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/talithadebarros-ux) |
 | **Developer** | Pedro de Vasconcelos | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-vasconcelos-rodrigues-3183a731b) |
