@@ -6,9 +6,18 @@ Projeto desenvolvido no âmbito da disciplina de Aprendizagem por Projetos Integ
 O projeto tem como objetivo desenvolver uma solução de análise e visualização de dados capaz de identificar, organizar e apresentar informações relacionadas aos principais setores industriais e de serviços de São José dos Campos.
 
 
-
 ## Índice
 
+- [Projeto API](#projeto-api)
+- [Equipe](#equipe)
+- [Objetivo do Projeto](#objetivo-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Product Backlog](#product-backlog)
+  - [Sprint 1 — Levantamento das Fontes de Dados](#sprint-1--levantamento-das-fontes-de-dados)
+  - [Sprint 2 — Análise e Desenvolvimento](#sprint-2--análise-e-desenvolvimento)
+  - [Sprint 3 — Finalização e Entrega](#sprint-3--finalização-e-entrega)
+- [Registro das Sprints](#registro-das-sprints)
+- [MVP e Entregas](#mvp-e-entregas)
 
 ---
 
