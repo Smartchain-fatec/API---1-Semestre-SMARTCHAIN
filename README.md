@@ -17,7 +17,7 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
   - [Sprint 2 — Análise e Desenvolvimento](#sprint-2--análise-e-desenvolvimento)
   - [Sprint 3 — Finalização e Entrega](#sprint-3--finalização-e-entrega)
 - [Registro das Sprints](#registro-das-sprints)
-- [MVP e Entregas](#mvp-e-entregas)
+  
 
 ---
 
