@@ -5,7 +5,7 @@
 
 O comércio (22,11%) e a indústria de transformação (18,07%) destacam-se pela participação no emprego formal, evidenciando sua relevância para a economia regional.
 
-Entre as principais atividades econômicas, destacam-se o comércio varejista, os serviços de saúde, a educação e a alimentação. A fabricação de aeronaves apresenta o maior número individual de vínculos, reforçando a importância do setor aeronáutico.
+Entre as principais atividades economicas, destacam-se o comércio varejista, os serviços de saúde, a educação e a alimentação. A fabricação de aeronaves apresenta o maior número individual de vínculos, reforçando a importância do setor aeronáutico.
 
 A comparação entre vínculos empregatícios e registros RAIS permite compreender a distribuição das atividades produtivas, identificar setores estratégicos e apoiar decisões voltadas ao desenvolvimento econômico municipal.
 
