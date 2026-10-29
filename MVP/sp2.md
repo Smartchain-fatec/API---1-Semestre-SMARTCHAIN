@@ -109,4 +109,6 @@
 - Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC": [Manual de Construção do Power BI](<../Dados/Sprint 2/Manual_Construcao_PowerBI_Observatorio_SJC.pdf>)
 - ATA da 2ª Sprint:[ATA da Sprint 2](<../Dados/Sprint 2/ATA-API__SmartChain_Sprint 2 (1).docx>)
 - Backlog e Checklist DoR da 2ª Sprint: [Sprint Backlog da Sprint 2](<../Dados/Sprint 2/Sprint_Backlog_Sprint2_SmartChain.xlsx>)
-- Painel no Power BI: [inserir link ou print]
+- Painel no Power BI: https://github.com/user-attachments/assets/0ea3fb93-3cb8-4152-8897-dc795cecf0ba
+
+
