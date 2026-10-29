@@ -78,7 +78,14 @@ O Product Backlog apresenta as necessidades, funcionalidades e atividades previs
 Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de análise e visualização.
 
 
-<img width="1032" height="313" alt="image" src="https://github.com/user-attachments/assets/93ccaeca-f559-48c4-85c6-4c92c895ce26" />
+### Product Backlog — Sprint 1
+
+| Rank | Prioridade | User Story | Sprint |
+|:---:|:---:|---|:---:|
+| 1 | Média | Como tomador de decisão de políticas públicas, quero ter acesso aos dados disponíveis na RAIS relacionados às empresas e atividades econômicas, para ter as informações que poderão ser necessárias ao desenvolvimento do projeto. | 1 |
+| 2 | Alta | Como tomador de decisão de políticas públicas, quero visualizar a base de dados da RAIS organizada em uma estrutura clara e padronizada, para facilitar o consumo e a interpretação das informações. | 1 |
+| 3 | Alta | Como tomador de decisão de políticas públicas, quero acessar dados sem duplicidades e inconsistências, para ter confiabilidade nos dados e tomar decisões baseadas em informações precisas. | 1 |
+| 4 | Alta | Como tomador de decisão de políticas públicas, quero consultar os conjuntos de dados e campos específicos da RAIS (empresas e atividades), para selecionar apenas os indicadores necessários ao acompanhamento dos projetos. | 1 |
 
 
 ## Sprint 2 — Análise e Desenvolvimento
@@ -86,7 +93,20 @@ Objetivo: Obter, organizar e preparar os dados da RAIS para as etapas de anális
 Objetivo: Analisar os dados tratados e iniciar a construção das visualizações e do dashboard no Power BI.
 
 
-<img width="1032" height="638" alt="image" src="https://github.com/user-attachments/assets/d40b8bdc-9de1-4ca0-aa0e-f41fc32c8d33" />
+
+### Product Backlog — Sprint 2
+
+| Rank | Prioridade | User Story | Sprint |
+|:---:|:---:|---|:---:|
+| 1 | Média | Como tomador de decisão de políticas públicas, quero que as empresas sejam classificadas por setor e atividade econômica, para possibilitar a análise dos diferentes segmentos existentes na região e garantir uma visão estruturada dos dados. | 2 |
+| 2 | Alta | Como formulador de políticas públicas, quero identificar a distribuição geográfica das empresas e setores produtivos, para compreender como as atividades econômicas estão distribuídas na região e ter uma visão clara do cenário local. | 2 |
+| 3 | Alta | Como gestor público, quero que sejam definidos os indicadores econômicos e produtivos que serão apresentados, para destacar as informações mais relevantes na análise dos dados e garantir que o painel traga clareza e objetividade. | 2 |
+| 4 | Alta | Como tomador de decisão de políticas públicas, quero que os dados tratados da RAIS sejam analisados com Python, para obter os resultados que sustentarão os indicadores, os gráficos e o painel do projeto. | 2 |
+| 5 | Alta | Como gestor público, quero visualizar gráficos sobre a participação dos diferentes setores na economia regional, para compreender de forma rápida a distribuição das atividades econômicas. | 2 |
+| 6 | Alta | Como gestor público, quero consultar um painel desenvolvido no Power BI, para visualizar e analisar os dados das empresas e setores de forma centralizada, garantindo acesso prático e integrado às informações. | 2 |
+| 7 | Alta | Como tomador de decisão de políticas públicas, quero receber as respostas às questões de análise do projeto, para compreender o ecossistema industrial e de serviços de São José dos Campos. | 2 |
+| 8 | Alta | Como formulador de políticas públicas, quero receber um relatório técnico que documente todas as etapas realizadas, os métodos utilizados e os resultados obtidos, para que eu tenha clareza sobre o desenvolvimento do projeto. | 2 |
+
 
 
 ## Sprint 3 — Finalização e Entrega
@@ -94,7 +114,18 @@ Objetivo: Analisar os dados tratados e iniciar a construção das visualizaçõe
 Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentação e preparar a entrega do projeto.
 
 
-<img width="1032" height="524" alt="image" src="https://github.com/user-attachments/assets/1dd31444-0e4c-4343-bd6a-f4c83d492417" />
+### Product Backlog — Sprint 3
+
+| Rank | Prioridade | User Story | Sprint |
+|:---:|:---:|---|:---:|
+| 1 | Alta | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de | 3 |
+| 2 | Alta | Como tomador de decisão de políticas públicas, quero visualizar as empresas e setores em um mapa no Power BI, para identificar sua distribuição geográfica na região e compreender melhor como estão organizados. | 3 |
+| 3 | Alta | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado. | 3 |
+| 4 | Alta | Como tomador de decisão de políticas públicas, quero conferir e validar os dados e resultados apresentados no painel do Power BI, para garantir a confiabilidade das informações disponibilizadas. | 3 |
+| 5 | Alta | Como dirigente estatal de políticas públicas, quero que o repositório, os dados organizados, os códigos e toda a documentação sejam organizados no GitHub, para que eu tenha acesso estruturado e transparente ao projeto. | 3 |
+| 6 | Alta | Como tomador de decisões de políticas públicas, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas. | 3 |
+| 7 | Média | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube. | 3 |
+| 8 | Alta | Como gestor público, quero observar uma apresentação do trabalho clara explicando todo o processo do trabalho em um evento acadêmico. | 3 |
 
 ---
 
