@@ -106,7 +106,7 @@
 ## 📂 Anexos / Evidências
 
 - Relatório 5W2H da 2ª Sprint: [inserir link/arquivo no repositório]
-- Relatório técnico da 2ª Sprint: [inserir link/arquivo no repositório]
+- Relatório técnico da 2ª Sprint: [Relatório 2° Sprint.docx](../Dados/Sprint%202/Relat%C3%B3rio%202%C2%B0%20Sprint.docx)
 - Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC": [Manual de Construção do Power BI](<../Dados/Sprint 2/Manual_Construcao_PowerBI_Observatorio_SJC.pdf>)
 - ATA da 2ª Sprint:[ATA da Sprint 2](<../Dados/Sprint 2/ATA-API__SmartChain_Sprint 2 (1).docx>)
 - Backlog da 2ª Sprint: [Sprint Backlog da Sprint 2](<../Dados/Sprint 2/Sprint_Backlog_Sprint2_SmartChain.xlsx>)
