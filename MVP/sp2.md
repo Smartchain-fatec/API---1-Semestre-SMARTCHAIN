@@ -56,8 +56,8 @@
 
 | Sprint | Entregas Principais                                                                                      | Prazo | Status    |
 | ------ | -------------------------------------------------------------------------------------------------------- | ----- | --------- |
-| 01     | Dados da RAIS filtrados, tratados e organizados; início dos dashboards                                   | 26/09 | Concluido |
-| 02     | Reunião de preparação da Sprint 2                                                                        | 19/10 | Concluido |
+| 01     | Dados da RAIS filtrados, tratados e organizados; início dos dashboards                                   | 26/09 | Concluído |
+| 02     | Reunião de preparação da Sprint 2                                                                        | 19/10 | Concluído |
 | 02     | Backlog da Sprint e Checklist DoR da 2ª Sprint                                                           | 23/10 e 24/10 | A fazer |
 | 02     | Dashboard no Power BI (análise dos dados tratados)                                                       | 24/10 | A fazer   |
 | 02     | Relatório técnico (fontes de dados, metodologia e análises da 2ª Sprint)                                 | 26/10 | A fazer   |
