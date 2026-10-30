@@ -95,7 +95,7 @@ Objetivo: Analisar os dados tratados e iniciar a construção das visualizaçõe
 
 ### Product Backlog — Sprint 2
 
-| Rank | Prioridade |        User Story | Sprint |
+| Rank | Prioridade | User Story | Sprint |
 | :---: | :---: | :--- | :---: |
 | 1 | Alta | Como tomador de decisão de políticas públicas, quero que as empresas sejam classificadas por setor e atividade econômica, para possibilitar a análise dos diferentes segmentos existentes na região e garantir uma visão estruturada dos dados. | 2 |
 | 2 | Alta | Como formulador de políticas públicas, quero identificar a distribuição geográfica das empresas e setores produtivos, para compreender como as atividades econômicas estão distribuídas na região e ter uma visão clara do cenário local. | 2 |
@@ -113,16 +113,14 @@ Objetivo: Finalizar o dashboard, validar os resultados, organizar a documentaç�
 
 ### Product Backlog — Sprint 3
 
+
 | Rank | Prioridade | User Story | Sprint |
-|:---:|:---:|---|:---:|
-| 1 | Alta | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de | 3 |
-| 2 | Alta | Como tomador de decisão de políticas públicas, quero visualizar as empresas e setores em um mapa no Power BI, para identificar sua distribuição geográfica na região e compreender melhor como estão organizados. | 3 |
-| 3 | Alta | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado. | 3 |
-| 4 | Alta | Como tomador de decisão de políticas públicas, quero conferir e validar os dados e resultados apresentados no painel do Power BI, para garantir a confiabilidade das informações disponibilizadas. | 3 |
-| 5 | Alta | Como dirigente estatal de políticas públicas, quero que o repositório, os dados organizados, os códigos e toda a documentação sejam organizados no GitHub, para que eu tenha acesso estruturado e transparente ao projeto. | 3 |
-| 6 | Alta | Como tomador de decisões de políticas públicas, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas. | 3 |
-| 7 | Média | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube. | 3 |
-| 8 | Alta | Como gestor público, quero observar uma apresentação do trabalho clara explicando todo o processo do trabalho em um evento acadêmico. | 3 |
+| :---: | :---: | :--- | :---: |
+| 1 | Alta | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de empresas, setores e localidades, garantindo que eu consiga acessar os dados de forma prática e direcionada. | 3 |
+| 2 | Alta | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado, para que eu possa compreender melhor o panorama apresentado. | 3 |
+| 3 | Alta | Como tomador de decisões de políticas governamentais, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas. | 3 |
+| 4 | Média | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube. | 3 |
+| 5 | Alta | Como gestor público, quero observar uma apresentação do trabalho clara explicando todo o processo do trabalho em um evento acadêmico. | 3 |
 
 ---
 
