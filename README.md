@@ -95,16 +95,14 @@ Objetivo: Analisar os dados tratados e iniciar a construção das visualizaçõe
 
 ### Product Backlog — Sprint 2
 
-| Rank | Prioridade | User Story | Sprint |
-|:---:|:---:|---|:---:|
-| 1 | Média | Como tomador de decisão de políticas públicas, quero que as empresas sejam classificadas por setor e atividade econômica, para possibilitar a análise dos diferentes segmentos existentes na região e garantir uma visão estruturada dos dados. | 2 |
+| Rank | Prioridade |        User Story | Sprint |
+| :---: | :---: | :--- | :---: |
+| 1 | Alta | Como tomador de decisão de políticas públicas, quero que as empresas sejam classificadas por setor e atividade econômica, para possibilitar a análise dos diferentes segmentos existentes na região e garantir uma visão estruturada dos dados. | 2 |
 | 2 | Alta | Como formulador de políticas públicas, quero identificar a distribuição geográfica das empresas e setores produtivos, para compreender como as atividades econômicas estão distribuídas na região e ter uma visão clara do cenário local. | 2 |
 | 3 | Alta | Como gestor público, quero que sejam definidos os indicadores econômicos e produtivos que serão apresentados, para destacar as informações mais relevantes na análise dos dados e garantir que o painel traga clareza e objetividade. | 2 |
-| 4 | Alta | Como tomador de decisão de políticas públicas, quero que os dados tratados da RAIS sejam analisados com Python, para obter os resultados que sustentarão os indicadores, os gráficos e o painel do projeto. | 2 |
-| 5 | Alta | Como gestor público, quero visualizar gráficos sobre a participação dos diferentes setores na economia regional, para compreender de forma rápida a distribuição das atividades econômicas. | 2 |
-| 6 | Alta | Como gestor público, quero consultar um painel desenvolvido no Power BI, para visualizar e analisar os dados das empresas e setores de forma centralizada, garantindo acesso prático e integrado às informações. | 2 |
-| 7 | Alta | Como tomador de decisão de políticas públicas, quero receber as respostas às questões de análise do projeto, para compreender o ecossistema industrial e de serviços de São José dos Campos. | 2 |
-| 8 | Alta | Como formulador de políticas públicas, quero receber um relatório técnico que documente todas as etapas realizadas, os métodos utilizados e os resultados obtidos, para que eu tenha clareza sobre o desenvolvimento do projeto. | 2 |
+| 4 | Alta | Como usuário do painel, quero visualizar gráficos sobre a participação dos diferentes setores na economia regional, para compreender de forma rápida a distribuição das atividades econômicas. | 2 |
+| 5 | Alta | Como tomador de decisão de políticas públicas, quero receber as respostas às questões de análise do projeto (setores predominantes, macroprocessos produtivos, relação com desenvolvimento tecnológico e inovação e oportunidades para o engenheiro de produção), para compreender o ecossistema industrial e de serviços de São José dos Campos. | 2 |
+| 6 | Alta | Como formulador de políticas públicas, quero receber um relatório técnico que documente todas as etapas realizadas, os métodos utilizados e os resultados obtidos, para que eu tenha clareza sobre o desenvolvimento do projeto. | 3 |
 
 
 
