@@ -64,7 +64,6 @@ As principais ferramentas utilizadas ou previstas para o desenvolvimento do proj
 - Google Colab
 - Power BI
 - GitHub
-- Jira Software
 - Microsoft Excel
 - Microsoft Word
 
