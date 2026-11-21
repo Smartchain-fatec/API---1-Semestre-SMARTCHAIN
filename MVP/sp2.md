@@ -58,14 +58,14 @@
 | ------ | -------------------------------------------------------------------------------------------------------- | ----- | --------- |
 | 01     | Dados da RAIS filtrados, tratados e organizados; início dos dashboards                                   | 26/09 | Concluído |
 | 02     | Reunião de preparação da Sprint 2                                                                        | 19/10 | Concluído |
-| 02     | Backlog da Sprint e Checklist DoR da 2ª Sprint                                                           | 23/10 e 24/10 | A fazer |
-| 02     | Dashboard no Power BI (análise dos dados tratados)                                                       | 24/10 | A fazer   |
-| 02     | Relatório técnico (fontes de dados, metodologia e análises da 2ª Sprint)                                 | 26/10 | A fazer   |
-| 02     | Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC" (formatação ABNT)                  | 26/10 | A fazer   |
-| 02     | Relatório 5W2H e ATA da 2ª Sprint                                                                        | 24/10 a 26/10 | A fazer |
-| 02     | Repositório no GitHub atualizado com a documentação da 2ª Sprint                                         | 26/10 e 27/10 | A fazer |
-| 02     | Contato com o cliente para alinhamento da apresentação                                                   | 28/10 | A fazer   |
-| 03     | Filtros e navegação, mapa, análise comparativa, validação dos dados, GitHub, relatório técnico, apresentação final e vídeo | — | A fazer |
+| 02     | Backlog da Sprint e Checklist DoR da 2ª Sprint                                                           | 23/10 e 24/10 | Concluído |
+| 02     | Dashboard no Power BI (análise dos dados tratados)                                                       | 24/10 | Concluído   |
+| 02     | Relatório técnico (fontes de dados, metodologia e análises da 2ª Sprint)                                 | 26/10 | Concluído   |
+| 02     | Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC" (formatação ABNT)                  | 26/10 | Concluído   |
+| 02     | Relatório 5W2H e ATA da 2ª Sprint                                                                        | 24/10 a 26/10 | Concluído |
+| 02     | Repositório no GitHub atualizado com a documentação da 2ª Sprint                                         | 26/10 e 27/10 | Concluído |
+| 02     | Contato com o cliente para alinhamento da apresentação                                                   | 28/10 | Concluído   |
+| 03     | Filtros e navegação, mapa, análise comparativa, validação dos dados, GitHub, relatório técnico, apresentação final e vídeo | — | Concluído |
 
 ---
 
