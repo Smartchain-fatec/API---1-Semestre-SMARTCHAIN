@@ -56,9 +56,9 @@
 | Sprint | Entregas Principais                                                                                                                                  | Status    |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | 01     | Filtragem da RAIS para São José dos Campos com Python; limpeza e organização da base; envio da base tratada (19/09); início dos dashboards no Power BI | Concluído |
-| 02     | Finalização e refinamento dos dashboards no Power BI                                                                                                 | A fazer   |
-| 02     | Relatório técnico (fontes de dados, metodologia e análises realizadas)                                                                               | A fazer   |
-| 02     | Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC"                                                                                | A fazer   |
+| 02     | Finalização e refinamento dos dashboards no Power BI                                                                                                 | Concluído  |
+| 02     | Relatório técnico (fontes de dados, metodologia e análises realizadas)                                                                               | Concluído   |
+| 02     | Tutorial "Mapeamentos do Ecossistema Industrial e de Serviços de SJC"                                                                                | Concluído  |
 
 ---
 
