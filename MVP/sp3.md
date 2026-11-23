@@ -153,3 +153,4 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 - **Documentação do notebook:** registro das fontes, métodos e processos de limpeza.
 - **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
 - **Vídeo demonstrativo:** publicação do projeto no YouTube da equipe.
+- **ATA da sprint 3:
