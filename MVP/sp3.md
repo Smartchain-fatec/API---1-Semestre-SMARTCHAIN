@@ -47,12 +47,13 @@
 
 ## 🔑 User Stories (Backlog do MVP)
 
-| Rank | Prioridade | User Story |
-|---|---|---|
-| 1 | Alta | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de empresas, setores e localidades, garantindo que eu consiga acessar os dados de forma prática e direcionada. |
-| 2 | Alta | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado, para que eu possa compreender melhor o panorama apresentado. |
-| 3 | Alta | Como tomador de decisões de políticas governamentais, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas, para compreender o panorama do ecossistema industrial e de serviços de São José dos Campos e embasar decisões de políticas públicas. |
-| 4 | Alta | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube, para conhecer a solução e seus resultados a qualquer momento e compartilhá-los com outras áreas da gestão. |
+
+| ID | User Story | Prioridade | Estimativa |
+|---|---|---|---|
+| US1 | Como analista de dados, quero que a base da RAIS seja filtrada para o município de São José dos Campos usando Python, para reduzir o tamanho do arquivo e viabilizar o tratamento. | Altíssima | A definir |
+| US2 | Como analista de dados, quero que a base filtrada seja limpa e organizada (duplicidades e inconsistências removidas), para ter uma base confiável para análise. | Alta | A definir |
+| US3 | Como gestor, quero dashboards interativos no Power BI com os indicadores do ecossistema industrial de São José dos Campos, para consultar e interpretar os dados com facilidade. | Alta | A definir |
+
 
 ---
 
