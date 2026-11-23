@@ -1,110 +1,151 @@
-# 📌 MVP - [Dashboard final no Power BI, validação dos resultados e entrega do projeto]
+
+# 📌 MVP - Sprint 3 | Finalização e Entrega
 
 ## 🎯 Objetivo do MVP
 
-> O MVP visa finalizar o dashboard, validar os resultados, organizar a documentação e preparar a entrega do projeto de mapeamento do ecossistema industrial e de serviços de São José dos Campos.
+O MVP da Sprint 3 tem como objetivo finalizar o projeto SmartChain, aprimorando as visualizações dos dados no Power BI, realizando análises comparativas entre os setores industriais e de serviços de São José dos Campos e organizando os materiais necessários para a entrega final.
 
-- **Qual problema resolve?** O painel construído na Sprint 2 ainda precisa de navegação, mapa e análise comparativa para ser realmente útil ao tomador de decisão, além de validação dos dados e documentação completa para a entrega ao cliente.
-
-- **Qual hipótese será validada?** A hipótese de que um dashboard com filtros, mapa e comparação entre segmentos, com dados validados, permite ao gestor público consultar de forma prática e confiável a distribuição e as características dos setores da região.
-
-- **Qual valor será entregue ao usuário final?** Um dashboard completo e validado, com documentação organizada no GitHub, relatório técnico, apresentação final e vídeo do projeto.
+- **Qual problema resolve?** Facilita a consulta e interpretação dos dados econômicos e produtivos da região, permitindo uma visualização mais clara e organizada das informações.
+- **Qual hipótese será validada?** Verificar se as funcionalidades do dashboard permitem consultar, comparar e interpretar os dados de maneira prática e intuitiva.
+- **Qual valor será entregue ao usuário final?** Um dashboard organizado, com informações relevantes sobre o ecossistema industrial e de serviços, acompanhado da documentação e apresentação do projeto.
 
 ---
 
 ## 📝 Descrição da Solução
 
-> Finalização do dashboard no Power BI com filtros, mapa e análise comparativa, validação dos resultados e organização de toda a documentação para a entrega final.
+A solução consiste na finalização do dashboard desenvolvido no Power BI, incorporando visualizações, indicadores econômicos, distribuição geográfica e comparações entre os segmentos industriais e de serviços.
 
-- **Funcionalidades principais incluídas:**
-  - Filtros e mecanismos de navegação no dashboard, para consultar empresas, setores e localidades.
-  - Mapa no Power BI com a distribuição geográfica das empresas e setores.
-  - Análise comparativa entre segmentos industriais e de serviços.
-  - Validação dos dados e dos resultados do painel em relação à base tratada.
-  - Repositório, códigos e documentação organizados no GitHub.
-  - Relatório técnico, apresentação final e vídeo do projeto no YouTube.
+**Funcionalidades principais:**
 
-- **Limitações conhecidas:** [preencher ao final da sprint]
+- Visualização dos principais setores industriais e de serviços.
+- Identificação e classificação das atividades econômicas predominantes.
+- Representação geográfica da distribuição das empresas e setores.
+- Apresentação de indicadores econômicos e produtivos.
+- Gráfico da participação dos setores na economia regional.
+- Comparação entre segmentos industriais e de serviços.
+- Implementação de filtros e navegação intuitiva no dashboard.
+- Organização da documentação técnica no GitHub.
 
-- **Escopo reduzido:** [preencher ao final da sprint]
+**Limitações conhecidas:**
+
+- A conclusão das funcionalidades depende da validação das visualizações e dos dados.
+- A apresentação dos resultados depende da finalização dos materiais da equipe.
+- O vídeo demonstrativo deve ser publicado no YouTube da equipe.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
 
-- **Persona 1:** Tomador de decisão / formulador de políticas públicas: precisa consultar informações específicas de empresas, setores e localidades e comparar segmentos para embasar suas decisões.
-- **Persona 2:** Dirigente / gestor público: precisa de acesso estruturado e transparente ao projeto, à documentação e aos resultados finais.
+- **Tomador de decisão de políticas públicas:** busca informações sobre empresas, setores e localidades para apoiar decisões.
+- **Gestor público:** necessita compreender o panorama econômico regional por meio de indicadores e análises comparativas.
+- **Usuário do dashboard:** precisa consultar informações de maneira simples, organizada e intuitiva.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 
-| ID  | User Story                                                                                                                                                                                                                                                 | Prioridade | Estimativa |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| US1 | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de empresas, setores e localidades, garantindo que eu consiga acessar os dados de forma prática e direcionada. | Alta       | A definir  |
-| US2 | Como tomador de decisão de políticas públicas, quero visualizar as empresas e setores em um mapa no Power BI, para identificar sua distribuição geográfica na região e compreender melhor como estão organizados.                                          | Alta       | A definir  |
-| US3 | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado, para que eu possa compreender melhor o panorama apresentado. | Alta       | A definir  |
-| US4 | Como tomador de decisão de políticas públicas, quero conferir e validar os dados e resultados apresentados no painel do Power BI, para garantir a confiabilidade das informações disponibilizadas.                                                          | Alta       | A definir  |
-| US5 | Como dirigente estatal de políticas públicas, quero que o repositório, os códigos e toda a documentação sejam organizados no GitHub, para que eu tenha acesso estruturado e transparente ao projeto.                                                       | Média      | A definir  |
-| US6 | Como formulador de políticas públicas, quero receber um relatório técnico que documente todas as etapas realizadas, os métodos utilizados e os resultados obtidos, para que eu tenha clareza sobre o desenvolvimento do projeto.                           | Média      | A definir  |
-| US7 | Como tomador de decisões de políticas governamentais, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas, para que eu possa avaliar o trabalho junto ao cliente.  | Alta       | A definir  |
-| US8 | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube.                                                                                                                                                           | Alta       | A definir  |
-| US9 | Como gestor público, quero observar uma apresentação do trabalho clara explicando todo o processo do trabalho em um evento acadêmico.                                                                                                                      | Média      | A definir  |
+| Rank | User Story | Prioridade |
+|---|---|---|
+| 1 | Como tomador de decisão de políticas públicas, quero ter acesso aos filtros e mecanismos de navegação no Dashboard, para consultar informações específicas de empresas, setores e localidades, garantindo que eu consiga acessar os dados de forma prática e direcionada. | Alta |
+| 2 | Como tomador de decisão de políticas públicas, quero receber uma análise comparativa entre diferentes segmentos industriais e de serviços, que identifique as diferenças e características de cada setor analisado, para que eu possa compreender melhor o panorama apresentado. | Alta |
+| 3 | Como tomador de decisões de políticas governamentais, quero receber a apresentação final, na qual sejam mostrados o desenvolvimento do projeto, os resultados alcançados e as conclusões obtidas, para compreender o panorama do ecossistema industrial e de serviços de São José dos Campos e embasar decisões de políticas públicas. | Alta |
+| 4 | Como gestor público, quero visualizar um vídeo sobre o projeto publicado e divulgado no YouTube, para conhecer a solução e seus resultados a qualquer momento e compartilhá-los com outras áreas da gestão. | Alta |
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 📅 Sprints Relacionadas
 
-| Sprint | Entregas Principais                                                                                                  | Prazo        | Status       |
-| ------ | -------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
-| 01     | Dados da RAIS filtrados, tratados e organizados; início dos dashboards                                               | 26/09        | Concluído    |
-| 02     | Classificação por setor, dados geográficos, indicadores, gráficos e painel inicial no Power BI; documentação da Sprint 2 | 28/10     | Em andamento |
-| 03     | Filtros e navegação no dashboard                                                                                     | [preencher]  | A fazer      |
-| 03     | Mapa no Power BI                                                                                                     | [preencher]  | A fazer      |
-| 03     | Análise comparativa entre segmentos industriais e de serviços                                                        | [preencher]  | A fazer      |
-| 03     | Validação dos dados e resultados do painel                                                                           | [preencher]  | A fazer      |
-| 03     | Repositório, códigos e documentação organizados no GitHub                                                            | [preencher]  | A fazer      |
-| 03     | Relatório técnico final                                                                                              | [preencher]  | A fazer      |
-| 03     | Apresentação final                                                                                                   | [preencher]  | A fazer      |
-| 03     | Vídeo do projeto publicado no YouTube                                                                                | [preencher]  | A fazer      |
-| 03     | Apresentação na Feira de Soluções                                                                                    | [preencher]  | A fazer      |
+| Sprint | Descrição |
+|---|---|
+| Sprint 1 | Levantamento e organização das fontes de dados. |
+| Sprint 2 | Análise dos dados e desenvolvimento das visualizações. |
+| Sprint 3 | Finalização do dashboard, análise comparativa, documentação e apresentação final. |
 
 ---
 
-## 📊 Critérios de Aceitação
+## ✅ Critérios de Aceitação
 
-- O dashboard deve ter filtros relevantes, e os gráficos devem ser atualizados conforme os filtros selecionados.
-- A navegação deve ser simples e intuitiva.
-- O mapa deve representar corretamente as localidades e permitir identificar empresas ou setores, integrado aos demais elementos do painel.
-- A análise comparativa deve usar os indicadores definidos no projeto e apresentar os resultados de forma compreensível.
-- Os dados do painel devem ser conferidos com a base tratada, e os erros ou inconsistências encontrados devem ser corrigidos antes da entrega final.
-- O repositório deve conter os códigos, a documentação e os arquivos organizados em estrutura adequada.
-- O relatório técnico deve descrever objetivo, fontes e dados utilizados, tratamento e análise, resultados e ferramentas, e ser revisado antes da entrega.
-- A apresentação final deve mostrar o desenvolvimento, as ferramentas, o dashboard e os principais resultados.
-- O vídeo do projeto deve estar publicado no YouTube.
+**US1 – Filtros e navegação no Dashboard**
+- Criar filtros relevantes para a análise.
+- Permitir a seleção de diferentes categorias.
+- Garantir que os gráficos sejam atualizados conforme os filtros.
+- Criar uma navegação simples e intuitiva.
+
+**US2 – Análise comparativa**
+- Selecionar os segmentos que serão comparados.
+- Criar visualizações comparativas.
+- Utilizar os indicadores definidos no projeto.
+- Apresentar os resultados de maneira compreensível.
+
+**US3 – Apresentação final**
+- Apresentar o objetivo do projeto.
+- Explicar as etapas de desenvolvimento.
+- Apresentar as ferramentas utilizadas.
+- Demonstrar o dashboard desenvolvido.
+- Apresentar os principais resultados.
+
+**US4 – Vídeo demonstrativo**
+- Publicar o vídeo do projeto no YouTube da equipe até 23 de novembro de 2026.
+
+---
+
+## 📊 Atividades da Sprint 3 – 5W2H
+
+As atividades abaixo foram organizadas considerando exclusivamente os registros da Sprint 3 na planilha 5W2H da equipe API.
+
+| Atividade | Responsável | Prazo | Status |
+|---|---|---|---|
+| Visualização dos dados no Power BI | Ana Beatriz | 16/11/2026 | A Fazer |
+| Validar backlog e meta com o parceiro | Jéssica | 09/11/2026 | Concluído |
+| Organização dos dados e documentação técnica no repositório | Jéssica | 18/11/2026 | A Fazer |
+| Avaliação PACER dos integrantes | Jéssica | 23/11/2026 | A Fazer |
+| Documentação do GitHub | Letícia | 09/11/2026 | Concluído |
+| Review e apresentação | Letícia | 22/11/2026 | A Fazer |
+| Elaboração do roteiro do vídeo | Talitha | 17/11/2026 | A Fazer |
+| Publicação do vídeo no YouTube | Jéssica | 22/11/2026 | A Fazer |
+| Relatório técnico da Sprint 3 | Talitha | 18/11/2026 | A Fazer |
+| Apresentação da equipe e QR Code do GitHub | Talitha | 16/11/2026 | A Fazer |
+| Elaboração dos slides | Talitha | 16/11/2026 | A Fazer |
+| Documentação do notebook | Pedro | 19/11/2026 | A Fazer |
+| Gravação e edição do vídeo | Pedro | 19/11/2026 | A Fazer |
+| Ensaio cronometrado do vídeo | Pedro | 20/11/2026 | A Fazer |
+| Atualização da planilha 5W2H | Patrícia | 22/11/2026 | A Fazer |
+| Backlog de Produto e Backlog da Sprint | Patrícia | 09/11/2026 | Concluído |
+| Cronograma visual de evolução do projeto | Patrícia | 22/11/2026 | A Fazer |
 
 ---
 
 ## 📈 Métricas de Validação
 
-- Feedback qualitativo do cliente (positivo/negativo) sobre o dashboard final
-- Quantidade de inconsistências encontradas e corrigidas na validação dos dados
-- Percentual de user stories da sprint concluídas: [preencher]
-- Resultado da apresentação na Feira de Soluções: [preencher]
+- Funcionamento dos filtros e mecanismos de navegação.
+- Atualização correta dos gráficos conforme as seleções.
+- Clareza das visualizações e dos indicadores apresentados.
+- Realização das análises comparativas entre os segmentos.
+- Organização e disponibilidade da documentação no GitHub.
+- Finalização da apresentação e publicação do vídeo demonstrativo.
 
 ---
 
 ## 🚀 Próximos Passos
 
-[preencher ao final da sprint]
+- Finalizar as visualizações e funcionalidades do Power BI.
+- Validar os dados e indicadores apresentados.
+- Concluir a análise comparativa dos segmentos.
+- Finalizar o relatório técnico e a documentação do notebook.
+- Atualizar e organizar o repositório GitHub.
+- Finalizar os slides da apresentação.
+- Realizar a gravação e edição do vídeo demonstrativo.
+- Publicar o vídeo no YouTube da equipe.
+- Realizar a apresentação final do projeto.
 
 ---
 
 ## 📂 Anexos / Evidências
 
-- Relatório 5W2H da 3ª Sprint: [inserir link/arquivo no repositório]
-- Relatório técnico final: [inserir link/arquivo no repositório]
-- ATA da 3ª Sprint: [inserir link/arquivo no repositório]
-- Apresentação final: [inserir link/arquivo no repositório]
-- Painel no Power BI: [inserir link ou print]
-- Vídeo do projeto no YouTube: [inserir link]
+- **Backlog da Sprint 3:** planejamento das User Stories e critérios de aceitação.
+- **Relatório 5W2H:** acompanhamento das atividades, responsáveis, prazos e status da Sprint 3.
+- **Dashboard Power BI:** painel de visualização dos dados.
+- **Relatório técnico:** documentação das fontes de dados, metodologia e análises.
+- **Documentação do notebook:** registro das fontes, métodos e processos de limpeza.
+- **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
+- **Vídeo demonstrativo:** publicação do projeto no YouTube da equipe.
