@@ -140,4 +140,4 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 - **Relatório técnico:** documentação das fontes de dados, metodologia e análises realizadas.
 - **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
 - **Vídeo demonstrativo:** publicação do projeto no YouTube da equipe.
-- **ATA sprint 3:** [Ata de Reunião – Sprint 3](Dados/Sprint%203/ATA-API_SmartChain_Sprint_3%20%283%29.docx) , [Ata 04 – Comunicado da Sprint 3](Dados/Sprint%203/ATA_04_SmartChain_Comunicado_Sprint_3%281%29.docx)
+- **ATA sprint 3:** [Ata 04 – Comunicado da Sprint 3](Dados/Sprint%203/ATA_04_SmartChain_Comunicado_Sprint_3%282%29.docx)
