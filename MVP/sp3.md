@@ -99,23 +99,23 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 
 | Atividade | Responsável | Prazo | Status |
 |---|---|---|---|
-| Visualização dos dados em ferramenta de BI (Power BI) | Ana Beatriz | 16/11/2026 | A Fazer |
+| Visualização dos dados em ferramenta de BI (Power BI) | Ana Beatriz | 16/11/2026 | Concluído |
 | Validar Backlog e meta com o parceiro/cliente | Jéssica | 09/11/2026 | Concluído |
-| Organização dos dados e documentação técnica no repositório | Jéssica | 18/11/2026 | A Fazer |
-| Avaliação PACER dos integrantes | Jéssica | 23/11/2026 | A Fazer |
+| Organização dos dados e documentação técnica no repositório | Jéssica | 18/11/2026 | Concluído |
+| Avaliação PACER dos integrantes | Jéssica | 23/11/2026 | Concluído |
 | Documentação do GitHub | Letícia | 09/11/2026 | Concluído |
-| Review e apresentação | Letícia | 22/11/2026 | A Fazer |
-| Elaboração do roteiro do vídeo | Talitha | 17/11/2026 | A Fazer |
-| Publicação do vídeo no YouTube da equipe | Jéssica | 22/11/2026 | A Fazer |
-| Relatório técnico da Sprint 3 | Talitha | 18/11/2026 | A Fazer |
-| Apresentação da equipe e QR Code do GitHub | Talitha | 16/11/2026 | A Fazer |
-| Elaboração dos slides | Talitha | 16/11/2026 | A Fazer |
-| Documentação do notebook | Pedro | 19/11/2026 | A Fazer |
-| Gravação e edição do vídeo da Sprint 3 | Pedro | 19/11/2026 | A Fazer |
-| Ensaio cronometrado do vídeo | Pedro | 20/11/2026 | A Fazer |
-| Atualização da planilha 5W2H | Patrícia | 22/11/2026 | A Fazer |
+| Review e apresentação | Letícia | 22/11/2026 | Concluído |
+| Elaboração do roteiro do vídeo | Talitha | 17/11/2026 | Concluído |
+| Publicação do vídeo no YouTube da equipe | Jéssica | 22/11/2026 | Concluído |
+| Relatório técnico da Sprint 3 | Talitha | 18/11/2026 | Concluído |
+| Apresentação da equipe e QR Code do GitHub | Talitha | 16/11/2026 | Concluído |
+| Elaboração dos slides | Talitha | 16/11/2026 | Concluído |
+| Documentação do notebook | Pedro | 19/11/2026 | Concluído |
+| Gravação e edição do vídeo da Sprint 3 | Pedro | 19/11/2026 | Concluído |
+| Ensaio cronometrado do vídeo | Pedro | 20/11/2026 | Concluído |
+| Atualização da planilha 5W2H | Patrícia | 22/11/2026 | Concluído |
 | Backlog de Produto e Backlog da Sprint | Patrícia | 09/11/2026 | Concluído |
-| Cronograma visual de evolução do projeto | Patrícia | 22/11/2026 | A Fazer |
+| Cronograma visual de evolução do projeto | Patrícia | 22/11/2026 |Concluído |
 
 ---
 
