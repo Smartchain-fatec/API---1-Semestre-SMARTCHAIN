@@ -136,7 +136,7 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 
 - **Backlog da Sprint 3:** planejamento das User Stories e critérios de aceitação.
 - **Relatório 5W2H:** acompanhamento das atividades, responsáveis, prazos e status da Sprint 3.
-- **Dashboard Power BI:** painel de visualização dos dados.
+  - **Dashboard Power BI:**[ https://app.powerbi.com/view?r=eyJrIjoiOTExMzVhNDgtZTA2Yi00NThmLWFhYTktNGZhZjJjMWY5YzM2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9]
 - **Relatório técnico:** documentação das fontes de dados, metodologia e análises realizadas.
 - **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
 - **Vídeo demonstrativo:** publicação do projeto no YouTube da equipe.
