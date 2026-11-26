@@ -150,7 +150,6 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 - **Relatório 5W2H:** acompanhamento das atividades, responsáveis, prazos e status da Sprint 3.
 - **Dashboard Power BI:** painel de visualização dos dados.
 - **Relatório técnico:** documentação das fontes de dados, metodologia e análises realizadas.
-- **Documentação do notebook:** registro das fontes, métodos e processos de limpeza.
 - **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
 - **Vídeo demonstrativo:** publicação do projeto no YouTube da equipe.
-- **ATA da sprint 3:
+- **ATA sprint 3:** 
