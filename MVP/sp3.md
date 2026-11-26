@@ -130,19 +130,7 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 
 ---
 
-## 🚀 Próximos Passos
 
-- Finalizar as visualizações e funcionalidades do Power BI.
-- Validar os dados e indicadores apresentados.
-- Concluir a análise comparativa dos segmentos.
-- Finalizar o relatório técnico e a documentação do notebook.
-- Atualizar e organizar o repositório GitHub.
-- Finalizar os slides da apresentação.
-- Realizar a gravação e edição do vídeo demonstrativo.
-- Publicar o vídeo no YouTube da equipe.
-- Realizar a apresentação final do projeto.
-
----
 
 ## 📂 Anexos / Evidências
 
