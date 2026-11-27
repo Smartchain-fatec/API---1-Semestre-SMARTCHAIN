@@ -138,5 +138,5 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 - **Relatório 5W2H:** [Relatório 5W2H – Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/Relatorio_5W2H-SMARTCHAIN_3_Sprint.docx)
  - **Dashboard Power BI:**[Visualizar Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTExMzVhNDgtZTA2Yi00NThmLWFhYTktNGZhZjJjMWY5YzM2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 - **Relatório técnico:**[Relatório Final da API – Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/Relat%C3%B3rio%20API.docx)
-- **Vídeo demonstrativo:** [![Apresentação Final – SMARTCHAIN](https://img.youtube.com/vi/-GkQ_ncszCY/0.jpg)](https://www.youtube.com/watch?v=-GkQ_ncszCY)
+- **Vídeo demonstrativo:** [Clique aqui para assistir à apresentação completa](https://www.youtube.com/watch?v=-GkQ_ncszCY)
 - **ATA sprint 3:** [Ata de Reunião – Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/ATA-API_SmartChain_Sprint_3%20%283%29.docx),[Ata 04 – Comunicado da Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/ATA_04_SmartChain_Comunicado_Sprint_3.docx)
