@@ -135,7 +135,7 @@ As atividades abaixo consideram exclusivamente os registros da Sprint 3 na aba A
 ## 📂 Anexos / Evidências
 
 - **Backlog da Sprint 3:** [Backlog da Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/Backlog%20da%20Sprint%203.xlsx)
-- **Relatório 5W2H:** acompanhamento das atividades, responsáveis, prazos e status da Sprint 3.
+- **Relatório 5W2H:** [Relatório 5W2H – Sprint 3](https://github.com/Smartchain-fatec/API---1-Semestre-SMARTCHAIN/blob/main/Dados/Sprint%203/Relatorio_5W2H-SMARTCHAIN_3_Sprint.docx)
  - **Dashboard Power BI:**[Visualizar Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTExMzVhNDgtZTA2Yi00NThmLWFhYTktNGZhZjJjMWY5YzM2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 - **Relatório técnico:** documentação das fontes de dados, metodologia e análises realizadas.
 - **Apresentação final:** slides com o desenvolvimento e os resultados do projeto.
